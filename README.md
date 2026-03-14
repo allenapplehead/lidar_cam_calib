@@ -1,5 +1,5 @@
 
-nstructions: LiDAR-Camera Extrinsics Calibration
+Instructions: LiDAR-Camera Extrinsics Calibration
 
 Follow these steps to compute the 6-DoF extrinsics calibration by solving the Perspective-n-Point (PnP) problem between 3D LiDAR point clouds and 2D camera images.
 
